@@ -37,14 +37,14 @@ document.addEventListener('scroll', function() {
 
 let activecolor = document.querySelectorAll('.navbar-nav > a');
 
-        switch(window.location.href){
-             case 'file:///C:/Users/VAJA/Desktop/my_project/Website_2/index.html%20#id' :
+//         switch(window.location.href){
+//              case 'file:///C:/Users/VAJA/Desktop/my_project/Website_2/index.html%20#id' :
 
-             activecolor[0].style.color = '#ad974f';  
-             activecolor[0].style.fontWeight = 'bold';  
+//              activecolor[0].style.color = '#ad974f';  
+//              activecolor[0].style.fontWeight = 'bold';  
 
-             break;
-        }
+//              break;
+//         }
 
         switch(window.location.href){
              case 'https://vazhaburduli.github.io/Exodus-travel-agency/about-us.html' :
