@@ -82,13 +82,13 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
 //           break;
 //         }
 
-    let activecolor-1 = document.querySelector('.navbar-nav > a > i');
+    let activecolors = document.querySelector('.navbar-nav a i');
 
         switch(window.location.href){
              case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
 
-             activecolor-1.style.color = '#ad974f';  
-             activecolor-1.style.fontWeight = 'bold';  
+             activecolors.style.color = '#ad974f';  
+             activecolors.style.fontWeight = 'bold';  
 
              break;
         }
