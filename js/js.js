@@ -47,7 +47,7 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
         }
 
         switch(window.location.href){
-             case 'file:///C:/Users/VAJA/Desktop/my_project/Website_2/about-us.html' :
+             case 'https://vazhaburduli.github.io/Exodus-travel-agency/about-us.html' :
 
              activecolor[1].style.color = '#ad974f';  
              activecolor[1].style.fontWeight = 'bold';  
@@ -56,7 +56,7 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
         }
 
         switch(window.location.href){
-             case 'file:///C:/Users/VAJA/Desktop/my_project/Website_2/promotions.html' :
+             case 'https://vazhaburduli.github.io/Exodus-travel-agency/promotions.html' :
 
              activecolor[2].style.color = '#ad974f';  
              activecolor[2].style.fontWeight = 'bold';  
@@ -65,7 +65,7 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
         }
 
         switch(window.location.href){
-          case 'file:///C:/Users/VAJA/Desktop/my_project/Website_2/blog.html' :
+          case 'https://vazhaburduli.github.io/Exodus-travel-agency/blog.html' :
 
           activecolor[3].style.color = '#ad974f';  
           activecolor[3].style.fontWeight = 'bold';  
