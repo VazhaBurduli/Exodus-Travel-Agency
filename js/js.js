@@ -82,7 +82,7 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
 //           break;
 //         }
 
-    let activecolor-1 = document.querySelectorAll('.navbar-nav > a > i');
+    let activecolor-1 = document.querySelector('.navbar-nav > a > i');
 
         switch(window.location.href){
              case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
