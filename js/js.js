@@ -76,8 +76,8 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
         switch(window.location.href){
           case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
 
-          activecolor[3].style.color = '#ad974f';  
-          activecolor[3].style.fontWeight = 'bold';  
+          activecolor[4].style.color = '#ad974f';  
+          activecolor[4].style.fontWeight = 'bold';  
 
           break;
         }
