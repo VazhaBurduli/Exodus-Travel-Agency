@@ -73,15 +73,25 @@ let activecolor = document.querySelectorAll('.navbar-nav > a');
           break;
         }
 
+//         switch(window.location.href){
+//           case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
+
+//           activecolor[4].style.color = '#ad974f';  
+//           activecolor[4].style.fontWeight = 'bold';  
+
+//           break;
+//         }
+
+    let activecolor-1 = document.querySelectorAll('.navbar-nav > a > i');
+
         switch(window.location.href){
-          case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
+             case 'https://vazhaburduli.github.io/Exodus-travel-agency/contact-us.html' :
 
-          activecolor[4].style.color = '#ad974f';  
-          activecolor[4].style.fontWeight = 'bold';  
+             activecolor-1.style.color = '#ad974f';  
+             activecolor-1.style.fontWeight = 'bold';  
 
-          break;
+             break;
         }
-
 
 
     //  Jquery for carousel
